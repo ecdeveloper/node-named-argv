@@ -3,12 +3,12 @@ node-named-argv
 
 A simple node.js module that helps adding named parameters to a node app call
 
-installing
+Installing
 ==========
 
     npm install named-argv
     
-usage
+Usage
 =====
 
 You may use both '--' and '-' prefixes for your named parameters:
