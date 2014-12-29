@@ -1,8 +1,8 @@
 {
  "name":"named-argv",
  "description":"a simple node module that helps passing named arguments",
- "keywords": [""],
- "version":"0.1.0",
+ "keywords": ["arguments", "options", "argv", "argc"],
+ "version":"0.2.0",
  "repository": {"type": "git", "url": "git://github.com/ecdeveloper/node-named-argv"},
  "author": "ecdeveloper <ec.developer@gmail.com>",
  "main":"./index.js"

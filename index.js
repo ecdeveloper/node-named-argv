@@ -1,7 +1,7 @@
 var argOptions = {},
 	argParams  = [];
 
-var rx = /^-?-(\w+)(?:=(.*))?$/;
+var rx = /^-?-([\w-]+)(?:=(.*))?$/
 var argv = process.argv;
 
 argv.shift();
