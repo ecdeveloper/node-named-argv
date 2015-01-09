@@ -2,7 +2,7 @@
  "name":"named-argv",
  "description":"a simple node module that helps passing named arguments",
  "keywords": ["arguments", "options", "argv", "argc"],
- "version":"0.2.1",
+ "version":"0.3.0",
  "repository": {"type": "git", "url": "git://github.com/ecdeveloper/node-named-argv"},
  "author": "ecdeveloper <ec.developer@gmail.com>",
  "contributors": [{

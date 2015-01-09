@@ -2,7 +2,7 @@ var argOptions = {},
 	argParams  = [];
 
 var rx = /^-?-([\w-]+)(?:=(.*))?$/
-var argv = process.argv;
+var argv = process.argv.slice(0); // Clone process.argv array instead of copying it's reference
 
 argv.shift();
 argv.shift();
